@@ -1,1 +1,1 @@
-# Scotchy-API
+# Chess REST API
